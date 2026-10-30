@@ -5,10 +5,10 @@ cybersecurity lab setup
 -Internet is working on kali
 ##My screenshoots
 ### 1. NAT Network
-![Network Manager]{Images/NAT%20SETTINGS.jpeg}
+![NAT SETTINGS]{Images/NAT%20SETTINGS.jpeg}
 
 ### 2. Kali IP Address
-![Kali IP]{Images/Kali%20ip.jpeg}
+![Kali ip]{Images/Kali%20ip.jpeg}
 
 ### 3. Kali Network Settings
-![Kali Settings]{Images/kali%20settings.jpeg}
+![kali settings]{Images/kali%20settings.jpeg}
